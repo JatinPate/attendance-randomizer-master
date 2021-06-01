@@ -1,4 +1,4 @@
-var students = [" Lehman Busbee"," Deed Carroll"," Chad Conell"," Dayna Fairchild", " Gabe Gerhauser", " Tyrell Gordon", " Josh Harper", " Justin Longwell", " William Page", " Deairus Palmer", " Nina Payne", " Jamal Pennyman", " Pearl Reed"]
+var students = [" Deed Carroll"," Chad Conell"," Dayna Fairchild", " Gabe Gerhauser", " Josh Harper", " Justin Longwell", " William Page", " Deairus Palmer", " Nina Payne", " Jamal Pennyman", " Pearl Reed"]
 
 const studentList = document.getElementsByClassName("studentList")[0];
 const currentStudent = document.getElementsByClassName("currentStudent")[0];
