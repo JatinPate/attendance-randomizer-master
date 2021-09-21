@@ -1,4 +1,4 @@
-var students = [" Kayley", " Aaron", " Jaxxon"," Joh-vah-nee", " Crys", " Dan"," Jesse", " Zye-uh", " Lyzz", " Eli", " Jay", " Jennifer", " Jimmy", " Eliza", " Richard", " Dawna", " Roman", " Jenna", " Bo", " Kevin", " Marshall"];
+var students = [" Kayley", " Aaron", " Jaxxon"," Jhovany", " Crys", " Dan"," Jesse", " Ziyah", " Lyzz", " Eli", " Jay", " Jennifer", " Jimmy", " Eliza", " Richard", " Dawna", " Roman", " Jenna", " Bo", " Kevin", " Marshall"];
 
 const studentList = document.getElementsByClassName("studentList")[0];
 const currentStudent = document.getElementsByClassName("currentStudent")[0];
