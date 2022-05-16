@@ -1,4 +1,4 @@
-var students = [];
+var students = ["Dina", "Emily", "Michael", "Michaela", "Aden", "Thomas", "Xavier", "Miguel"];
 
 const studentList = document.getElementsByClassName("studentList")[0];
 const currentStudent = document.getElementsByClassName("currentStudent")[0];
