@@ -1,4 +1,4 @@
-var students = [" Samantha", " Skip", " Kevin", " Jacob", " Ashley", " Kolton", " Sok (pronounced soak)", " Jack", " Gage", " William or Bill", " Abuukar", " Zak", " Matthew"];
+var students = [" Samantha", " Skip", " Kevin", " Jacob", " Ashley", " Kolton", " Jack", " Gage", " Bill", " Abuukar", " Zak", " Matthew"];
 
 const studentList = document.getElementsByClassName("studentList")[0];
 const currentStudent = document.getElementsByClassName("currentStudent")[0];
